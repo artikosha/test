@@ -22,24 +22,24 @@ header.filters-area > app-directory-filters > div.directory-filters-wrapper > ap
 
 /* PERSONNALISATION DE LA LISTE DES RESULTATS */
 
-/* Fond violet pour la liste */
+/* Fond pour la liste */
 app-directory-list {
  background : #fff;  
 }
 
-/* fond transparent pour l'entete  de la liste*/
+/* fond pour l'entete  de la liste*/
 app-directory-list > div.directory-list-wrapper > nav.directory-results-header > div {
     background: #ffffff00;    /
 }
 
-/* Nombre de résultats en noir encadré arrondi et police aggrandie */
+/* Nombre de résultats 
 app-directory-list > div.directory-list-wrapper > nav.directory-results-header > div  > p.directory-results-count { 
 	border: solid;
     padding: 0.25em;
     border-radius: 22px;
     font-size: 231%;
 } 
-
+*/
 
 
 
