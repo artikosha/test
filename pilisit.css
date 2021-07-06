@@ -42,13 +42,15 @@ app-directory-list > div.directory-list-wrapper > nav.directory-results-header >
 */
 mat-drawer > div.mat-drawer-inner-container > app-directory-list.list-and-map {
 	width: 640px;
-	max-width: 640px;
+	max-width: 100vw;
 }
 mat-drawer > div.mat-drawer-inner-container > app-directory-entity-sheet.ng-star-inserted {
 	width: 640px;
+	max-width: 100vw;
 }
 mat-drawer > div.mat-drawer-inner-container > app-directory-entity-sheet.ng-star-inserted > div.directory-entity-sheet-wrapper > section.directory-entity-sheet-core{
 	max-width: 640px;
+	max-width: 100vw;
 }
 
 
