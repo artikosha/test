@@ -46,7 +46,9 @@ mat-drawer > div.mat-drawer-inner-container > app-directory-list.list-and-map {
 mat-drawer > div.mat-drawer-inner-container > app-directory-entity-sheet.ng-star-inserted {
 	width: 540px;
 }
-
+mat-drawer > div.mat-drawer-inner-container > app-directory-entity-sheet.ng-star-inserted > div.directory-entity-sheet-wrapper > section.directory-entity-sheet-core{
+	width: 540px;
+}
 
 
 
