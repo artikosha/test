@@ -56,7 +56,7 @@ mat-drawer > div.mat-drawer-inner-container > app-directory-entity-sheet.ng-star
 /* Searchbar */
 
 mat-form-field[appearance~=alternate-fill][appearance~=bordered].mat-form-field-should-float.mat-focused .mat-form-field-flex, mat-form-field[appearance~=alternate-fill][appearance~=bordered]:not(.mat-form-field-should-float) .mat-form-field-flex{
-	border-color: #aaa;
+	border-color: #fff;
 }
 
 div.directory-filters-searchbar > form > mat-form-field > div.mat-form-field-wrapper > div.mat-form-field-flex {
@@ -75,3 +75,4 @@ div.directory-filters-searchbar > form > mat-form-field > div.mat-form-field-wra
 	box-shadow: 0 1px 5px rgb(0 0 0 / 20%);
 }
 */
+
