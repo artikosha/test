@@ -1,5 +1,8 @@
 
-/* fond degradé noir -> blanc pour la barre de filtres */
+.directory-list-core {
+	color: red;}
+	
+	/* fond degradé noir -> blanc pour la barre de filtres */
 header.filters-area > app-directory-filters > div.directory-filters-wrapper {
     background: linear-gradient(45deg, black, transparent);
 }
