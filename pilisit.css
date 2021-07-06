@@ -15,6 +15,9 @@ header.filters-area > app-directory-filters > div.directory-filters-wrapper > ap
 }
 
 
+.directory-filters-searchbar[_ngcontent-csu-c103] .mat-form-field[_ngcontent-csu-c103] {
+    width: 500px;
+}
 /* PERSONNALISATION DE LA LISTE DES RESULTATS */
 
 /* Fond violet pour la liste */
