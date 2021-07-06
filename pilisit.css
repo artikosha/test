@@ -5,10 +5,10 @@ header.filters-area > app-directory-filters > div.directory-filters-wrapper {
     background: linear-gradient(45deg, black, transparent);
 }*/
 
-/* disparition de la barre de recherche */
+/* disparition de la barre de recherche 
 header.filters-area > app-directory-filters > div.directory-filters-wrapper > div.directory-filters-searchbar {
 	display:none;
-}
+}*/
 
 /* disparition du bouton + de filtres si votre widget ne contient que des filtres mis en avant et en petit nomnbre */
 header.filters-area > app-directory-filters > div.directory-filters-wrapper > app-directory-all-filters {
