@@ -84,6 +84,7 @@ div.directory-filters-legend > button{
 /*Button FULL SCREEN */
 div.directory-filters-fullscreen > button{
 	background-color: #fff;
+	border-width: 1px;
 	border-color: #aaa;
 }
 span.mat-button-wrapper > mat-icon.mat-icon-no-color{
