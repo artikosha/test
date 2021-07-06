@@ -76,3 +76,8 @@ div.directory-filters-searchbar > form > mat-form-field > div.mat-form-field-wra
 }
 */
 
+/*Button LEGENDE */
+div.directory-filters-legend > button{
+	background-color: #fff;
+}
+
