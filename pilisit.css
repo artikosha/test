@@ -21,7 +21,9 @@ header.filters-area > app-directory-filters > div.directory-filters-wrapper > ap
 app-directory-list {
  background : #8383b5;  
 }
-
+.mat-button-wrapper{
+	width: 300px;
+}
 app-directory-filters > div.directory-filters-wrapper > div.directory-filters-searchbar {
 	background: #222222;
 }
