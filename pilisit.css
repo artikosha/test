@@ -1,9 +1,9 @@
 
 	
-	/* fond degradé noir -> blanc pour la barre de filtres 
+	/* fond degradé noir -> blanc pour la barre de filtres */
 header.filters-area > app-directory-filters > div.directory-filters-wrapper {
-    background: linear-gradient(45deg, black, transparent);
-}*/
+    background-color: #f8f8f9;
+}
 
 /* disparition de la barre de recherche 
 header.filters-area > app-directory-filters > div.directory-filters-wrapper > div.directory-filters-searchbar {
