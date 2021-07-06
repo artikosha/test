@@ -81,3 +81,8 @@ div.directory-filters-legend > button{
 	background-color: #fff;
 }
 
+/*Button FULL SCREEN */
+div.directory-filters-fullscreen > button{
+	background-color: #fff;
+}
+
