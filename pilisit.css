@@ -52,7 +52,8 @@ mat-drawer > div.mat-drawer-inner-container > app-directory-entity-sheet.ng-star
 }
 
 div.directory-filters-searchbar > form > mat-form-field > div.mat-form-field-wrapper > div.mat-form-field-flex > div.mat-form-field-infix {
-    width: 300px;
+   	width: 500px;
+	max-width: 70vw;
 }
 
 
