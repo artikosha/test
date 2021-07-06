@@ -24,7 +24,7 @@ header.filters-area > app-directory-filters > div.directory-filters-wrapper > ap
 
 /* Fond violet pour la liste */
 app-directory-list {
- background : #8383b5;  
+ background : #fff;  
 }
 
 /* fond transparent pour l'entete  de la liste*/
