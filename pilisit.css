@@ -1,11 +1,3 @@
-/* NOM : custome.css
-   AUTEUR : Y. Dieulangard
-   DATE : 05/07/2021
-   VERSION 1.0
-   APPLICABLE A : mon widget (formation)
-   VISUALISABLE VIA : https://tools.bdi.fr/combined_craft_tools/numerique_v5/exemple.html
-   VERSION DE CRAFT : 5.2
-*/
 
 /* fond degradé noir -> blanc pour la barre de filtres */
 header.filters-area > app-directory-filters > div.directory-filters-wrapper {
