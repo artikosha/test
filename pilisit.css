@@ -16,9 +16,7 @@ header.filters-area > app-directory-filters > div.directory-filters-wrapper > ap
 }
 
 
-/*.directory-filters-searchbar[_ngcontent-csu-c103] .mat-form-field[_ngcontent-csu-c103] {
-    width: 500px;
-}*/
+
 
 /* PERSONNALISATION DE LA LISTE DES RESULTATS */
 
@@ -53,7 +51,9 @@ mat-drawer > div.mat-drawer-inner-container > app-directory-entity-sheet.ng-star
 	max-width: 100vw;
 }
 
-
+div.directory-filters-searchbar > mat-form-field {
+    width: 300px;
+}
 
 
 
