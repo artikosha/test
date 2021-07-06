@@ -30,6 +30,10 @@ app-directory-list {
  background : #8383b5;  
 }
 
+app-directory-filters > div.directory-filters-wrapper > div.directory-filters-searchbar {
+	background: #222222;
+}
+
 /* fond transparent pour l'entete  de la liste*/
 app-directory-list > div.directory-list-wrapper > nav.directory-results-header > div {
     background: #ffffff00;    /
