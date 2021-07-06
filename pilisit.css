@@ -10,10 +10,10 @@ header.filters-area > app-directory-filters > div.directory-filters-wrapper > di
 	display:none;
 }*/
 
-/* disparition du bouton + de filtres si votre widget ne contient que des filtres mis en avant et en petit nomnbre 
+/* disparition du bouton + de filtres si votre widget ne contient que des filtres mis en avant et en petit nomnbre */
 header.filters-area > app-directory-filters > div.directory-filters-wrapper > app-directory-all-filters {
 	display:none;
-}*/
+}
 
 
 .directory-filters-searchbar[_ngcontent-csu-c103] .mat-form-field[_ngcontent-csu-c103] {
