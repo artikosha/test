@@ -1,0 +1,52 @@
+/* NOM : custome.css
+   AUTEUR : Y. Dieulangard
+   DATE : 05/07/2021
+   VERSION 1.0
+   APPLICABLE A : mon widget (formation)
+   VISUALISABLE VIA : https://tools.bdi.fr/combined_craft_tools/numerique_v5/exemple.html
+   VERSION DE CRAFT : 5.2
+*/
+
+/* fond degradé noir -> blanc pour la barre de filtres */
+header.filters-area > app-directory-filters > div.directory-filters-wrapper {
+    background: linear-gradient(45deg, black, transparent);
+}
+
+/* disparition de la barre de recherche */
+header.filters-area > app-directory-filters > div.directory-filters-wrapper > div.directory-filters-searchbar {
+	display:none;
+}
+
+/* disparition du bouton + de filtres si votre widget ne contient que des filtres mis en avant et en petit nomnbre */
+header.filters-area > app-directory-filters > div.directory-filters-wrapper > app-directory-all-filters {
+	display:none;
+}
+
+
+/* PERSONNALISATION DE LA LISTE DES RESULTATS */
+
+/* Fond violet pour la liste */
+app-directory-list {
+ background : #8383b5;  
+}
+
+/* fond transparent pour l'entete  de la liste*/
+app-directory-list > div.directory-list-wrapper > nav.directory-results-header > div {
+    background: #ffffff00;    /
+}
+
+/* Nombre de résultats en noir encadré arrondi et police aggrandie */
+app-directory-list > div.directory-list-wrapper > nav.directory-results-header > div  > p.directory-results-count { 
+	border: solid;
+    padding: 0.25em;
+    border-radius: 22px;
+    font-size: 231%;
+} 
+
+
+
+
+
+
+
+
