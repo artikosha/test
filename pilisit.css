@@ -40,7 +40,7 @@ app-directory-list > div.directory-list-wrapper > nav.directory-results-header >
     font-size: 231%;
 } 
 */
-[_nghost-sww-c125] {
+mat-drawer > div.mat-drawer-inner-container > app-directory-list.list-and-map > div.directory-list-wrapper {
 	width: 540px;
 }
 
