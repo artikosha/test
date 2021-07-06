@@ -41,8 +41,8 @@ app-directory-list > div.directory-list-wrapper > nav.directory-results-header >
 } 
 */
 mat-drawer > div.mat-drawer-inner-container > app-directory-list.list-and-map {
-	width: 50%;
-	max-width: 50%;
+	width: 640px;
+	max-width: 640px;
 }
 mat-drawer > div.mat-drawer-inner-container > app-directory-entity-sheet.ng-star-inserted {
 	width: 540px;
