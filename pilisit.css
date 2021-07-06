@@ -51,7 +51,7 @@ mat-drawer > div.mat-drawer-inner-container > app-directory-entity-sheet.ng-star
 	max-width: 100vw;
 }
 
-div.directory-filters-searchbar > mat-form-field > div.mat-form-field-infix {
+div.directory-filters-searchbar > mat-form-field > div.mat-form-field-wrapper > div.mat-form-field-flex > div.mat-form-field-infix {
     width: 300px;
 }
 
