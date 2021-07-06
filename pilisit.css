@@ -55,7 +55,7 @@ mat-drawer > div.mat-drawer-inner-container > app-directory-entity-sheet.ng-star
 
 /* Searchbar */
 
-mat-form-field.mat-form-field-flex{
+.mat-form-field-flex{
 	border: 5px;
 }
 
