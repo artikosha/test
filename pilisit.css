@@ -22,8 +22,17 @@ header.filters-area > app-directory-filters > div.directory-filters-wrapper > ap
 
 /* Fond pour la liste */
 app-directory-list {
- background : #f8f8f9;  
+ 	background : #f8f8f9;  
 }
+
+.directory-list-core {
+	background : #f8f8f9; 
+}
+
+app-directory-summary.ng-star-inserted > div.util-el-background {
+	background : #f8f8f9; 
+}
+
 
 /* fond pour l'entete  de la liste*/
 app-directory-list > div.directory-list-wrapper > nav.directory-results-header > div {
