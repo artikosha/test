@@ -63,7 +63,7 @@ app-directory-summary.ng-star-inserted > div.directory-summary-wrapper {
 
 app-directory-summary.ng-star-inserted > div.directory-summary-wrapper > p.directory-summary-title {
 	font-size: 1.05rem;
-	line-height: 1.15rem;
+	line-height: 1.2rem;
 	font-weight: 500;
 	color: rgb(72 72 72 / 87%);
 }
