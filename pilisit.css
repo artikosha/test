@@ -80,8 +80,10 @@ section.directory-entity-sheet-core > app-directory-entity > div.directory-entit
 
 /* Fiche fullscreen */
 
-.directory-entity-header header{
-display: block;
+@media (min-width: 992px) {
+	header.directory-entity-header {
+		display: block;
+	}
 }
 
 
