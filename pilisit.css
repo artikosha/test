@@ -86,6 +86,15 @@ section.directory-entity-sheet-core > app-directory-entity > div.directory-entit
 	}
 }
 
+div.directory-entity-wrapper > main.row {
+	display: block;
+}
+div.directory-entity-wrapper > main.ng-star-inserted > div.col-md-6 {
+	max-width: 100%;
+}
+
+
+
 
 
 /* Searchbar */
