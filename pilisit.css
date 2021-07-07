@@ -98,6 +98,9 @@ div.directory-entity-wrapper > main.row {
 	display: block;
 }
 
+main.ng-star-inserted > div.ng-star-inserted > section.directory-entity-fields-group {
+	padding: 0rem;
+}
 
 
 
