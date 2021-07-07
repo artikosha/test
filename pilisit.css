@@ -103,12 +103,19 @@ main.ng-star-inserted > div.ng-star-inserted > section.util-el-surface {
 	div.directory-entity-wrapper > header.directory-entity-header {
 		display: block;
 	}
+}
 
+@media (min-width: 992px) {
 	div.directory-entity-wrapper > main.ng-star-inserted > div.col-md-6 {
 		max-width: 100%;
 	}
-}
-
+	app-directory-entity-sheet.app-directory-entity-sheet > div.directory-entity-sheet-wrapper > section.entity-fullwidth {
+		padding-right: 7rem!important;
+    		padding-left: 7rem!important;
+	}
+	
+}	
+	
 div.directory-entity-wrapper > main.row {
 	display: block;
 }
