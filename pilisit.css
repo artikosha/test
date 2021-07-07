@@ -77,6 +77,10 @@ section.directory-entity-sheet-core > app-directory-entity > div.directory-entit
 	font-weight: 500;	
 }
 
+main.ng-star-inserted > div.ng-star-inserted > section.util-el-surface {
+	background-color: #fff;
+}
+
 
 /* Fiche fullscreen */
 
