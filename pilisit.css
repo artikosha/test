@@ -68,6 +68,19 @@ app-directory-summary.ng-star-inserted > div.directory-summary-wrapper > p.direc
 	color: rgb(72 72 72 / 87%);
 }
 
+/* Fiche inserted */
+
+/* Title */
+section.directory-entity-sheet-core > app-directory-entity > div.directory-entity-wrapper > header.directory-entity-header > div.directory-entity-header-logo-title > h1.directory-entity-header-title > app-directory-entity-field > section.directory-entity-field-wrapper ng-star-inserted > p.directory-entity-field-value ng-star-inserted {
+	font-size: 1.35rem;
+	line-height: 1.2rem;
+	font-weight: 500;	
+}
+
+
+
+
+
 /* Searchbar */
 
 mat-form-field[appearance~=alternate-fill][appearance~=bordered].mat-form-field-should-float.mat-focused .mat-form-field-flex, mat-form-field[appearance~=alternate-fill][appearance~=bordered]:not(.mat-form-field-should-float) .mat-form-field-flex{
