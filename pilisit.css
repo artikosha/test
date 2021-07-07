@@ -71,7 +71,7 @@ app-directory-summary.ng-star-inserted > div.directory-summary-wrapper > p.direc
 /* Fiche inserted */
 
 /* Title */
-section.directory-entity-sheet-core > app-directory-entity > div.directory-entity-wrapper > header.directory-entity-header > div.directory-entity-header-logo-title > h1.directory-entity-header-title > app-directory-entity-field > section.directory-entity-field-wrapper ng-star-inserted > p.directory-entity-field-value ng-star-inserted {
+section.directory-entity-sheet-core > app-directory-entity > div.directory-entity-wrapper > header.directory-entity-header > div.directory-entity-header-logo-title > h1.directory-entity-header-title > app-directory-entity-field > section.ng-star-inserted > p.ng-star-inserted {
 	font-size: 1.35rem;
 	line-height: 1.2rem;
 	font-weight: 500;	
