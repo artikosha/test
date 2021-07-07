@@ -74,7 +74,8 @@ app-directory-summary.ng-star-inserted > div.directory-summary-wrapper > p.direc
 section.directory-entity-sheet-core > app-directory-entity > div.directory-entity-wrapper > header.directory-entity-header > div.directory-entity-header-logo-title > h1.directory-entity-header-title > app-directory-entity-field > section.ng-star-inserted > p.ng-star-inserted {
 	font-size: 1.35rem;
 	line-height: 1.4rem;
-	font-weight: 500;	
+	font-weight: 500;
+	text-transform: uppercase;
 }
 
 main.ng-star-inserted > div.ng-star-inserted > section.util-el-surface {
