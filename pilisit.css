@@ -73,6 +73,7 @@ app-directory-summary.ng-star-inserted > div.directory-summary-wrapper > p.direc
 /* Title */
 section.directory-entity-sheet-core > app-directory-entity > div.directory-entity-wrapper > header.directory-entity-header > div.directory-entity-header-logo-title {
 	border-bottom: 1px solid #aaa;
+	padding-bottom: 10px;
 }
 
 section.directory-entity-sheet-core > app-directory-entity > div.directory-entity-wrapper > header.directory-entity-header > div.directory-entity-header-logo-title > h1.directory-entity-header-title > app-directory-entity-field > section.ng-star-inserted > p.ng-star-inserted {
