@@ -124,7 +124,9 @@ main.ng-star-inserted > div.ng-star-inserted > section.directory-entity-fields-g
 	padding: 0rem;
 }
 
-
+p.directory-summary-description > div.ngx-ellipsis-inner {
+	text-align: justify;	
+}
 
 
 
