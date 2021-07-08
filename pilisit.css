@@ -128,6 +128,9 @@ p.directory-summary-description > div.ngx-ellipsis-inner {
 	text-align: justify;	
 }
 
+app-directory-entity-field > section.directory-entity-field-wrapper > p.directory-entity-field-value {
+	text-align: justify;
+}
 
 
 /* Searchbar */
