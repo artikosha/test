@@ -15,8 +15,11 @@ header.filters-area > app-directory-filters > div.directory-filters-wrapper > ap
 	display:none;
 }
 
+/* LEGENDE */
 
-
+div.cdk-overlay-container > div.cdk-overlay-connected-position-bounding-box > div.cdk-overlay-pane > div.directory-legend-dropdown-wrapper {
+	max-height: 500px;
+}
 
 /* PERSONNALISATION DE LA LISTE DES RESULTATS */
 
