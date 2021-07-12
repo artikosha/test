@@ -39,10 +39,9 @@ app-directory-summary.ng-star-inserted > div.util-el-background {
 /* BOUTON LEGENDE */
 
 app-directory-legend-dropdown  > div.directory-filters-legend  > button.directory-dropdown-button > span {
-	background : #aaa;
-	::before { content:"Filtres" }
+	background : #ffffff00;
 }
-
+app-directory-legend-dropdown  > div.directory-filters-legend  > button.directory-dropdown-button > span::before { content:"Filtres"; }
 
 
 /* fond pour l'entete  de la liste*/
