@@ -44,7 +44,7 @@ app-directory-legend-dropdown  > div.directory-filters-legend  > button.director
 }
 
 app-directory-legend-dropdown  > div.directory-filters-legend  > button.directory-dropdown-button > span {
-	display : block; 
+	display : inline-block; 
 	color : #ffffff00;
 }
 
