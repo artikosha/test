@@ -38,15 +38,15 @@ app-directory-summary.ng-star-inserted > div.util-el-background {
 
 /* BOUTON LEGENDE */
 
-app-directory-legend-dropdown  > div.directory-filters-legend  > button.directory-dropdown-button > span {
+/*app-directory-legend-dropdown  > div.directory-filters-legend  > button.directory-dropdown-button > span {
 	visibility : hidden;
-}
+}*/
 
 app-directory-legend-dropdown  > div.directory-filters-legend  > button.directory-dropdown-button > span {
-	background : #ffffff00;
+	color : #ffffff00;
 }
 
-app-directory-legend-dropdown  > div.directory-filters-legend  > button.directory-dropdown-button > span::before { content:"Filtres"; visibility : visible;}
+app-directory-legend-dropdown  > div.directory-filters-legend  > button.directory-dropdown-button > span::before { color: rgb(126, 126, 126); content:"Filtres"; /*visibility : visible;*/}
 
 
 /* fond pour l'entete  de la liste*/
