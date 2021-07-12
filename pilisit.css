@@ -38,9 +38,14 @@ app-directory-summary.ng-star-inserted > div.util-el-background {
 
 /* BOUTON LEGENDE */
 
+app-directory-legend-dropdown  > div.directory-filters-legend  > button.directory-dropdown-button {
+	max-width: 100px;
+}
+
+
 app-directory-legend-dropdown  > div.directory-filters-legend  > button.directory-dropdown-button > span {
 	visibility : hidden;
-	max-width: 0;
+	
 }
 
 /*app-directory-legend-dropdown  > div.directory-filters-legend  > button.directory-dropdown-button > span {
