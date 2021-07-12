@@ -39,14 +39,13 @@ app-directory-summary.ng-star-inserted > div.util-el-background {
 /* BOUTON LEGENDE */
 
 app-directory-legend-dropdown  > div.directory-filters-legend  > button.directory-dropdown-button > span {
-	/*visibility : hidden;*/
-	display : none;
+	visibility : hidden;
+	max-width: 0;
 }
 
-app-directory-legend-dropdown  > div.directory-filters-legend  > button.directory-dropdown-button > span {
-	display : inline-block; 
+/*app-directory-legend-dropdown  > div.directory-filters-legend  > button.directory-dropdown-button > span {
 	color : #ffffff00;
-}
+}*/
 
 app-directory-legend-dropdown  > div.directory-filters-legend  > button.directory-dropdown-button > span::before { color: rgb(126, 126, 126); content:"Filtres"; /*visibility : visible;*/}
 
