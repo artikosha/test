@@ -47,7 +47,7 @@ app-directory-legend-dropdown  > div.directory-filters-legend  > button.director
 	color : #ffffff00;
 }*/
 
-app-directory-legend-dropdown  > div.directory-filters-legend  > button.directory-dropdown-button > span::before { color: rgb(126, 126, 126); content:"Filtres"; /*visibility : visible;*/}
+app-directory-legend-dropdown  > div.directory-filters-legend  > button.directory-dropdown-button > span::before { color: rgb(126, 126, 126); content:"Filtres"; visibility : visible;}
 
 
 /* fond pour l'entete  de la liste*/
