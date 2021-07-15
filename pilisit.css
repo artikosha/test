@@ -167,7 +167,7 @@ mat-form-field[appearance~=alternate-fill][appearance~=bordered].mat-form-field-
 }
 
 header.filters-area > app-directory-filters > div.directory-filters-wrapper > div.directory-filters-searchbar > form > mat-form-field > div.mat-form-field-wrapper > div.mat-form-field-flex {
-   	border-width: 3px;
+   	border-width: 1px;
 	border-radius: 90px;
 	background-color: #fff;
 	height: 48px;
