@@ -177,6 +177,7 @@ div.directory-filters-searchbar > form > mat-form-field > div.mat-form-field-wra
    	width: 700px;
 	max-width: 70vw;
 	background: #ffffff00; 
+	color: rgb(72 72 72 / 87%);
 }
 
 /*mat-form-field{
