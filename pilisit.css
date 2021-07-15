@@ -173,7 +173,7 @@ header.filters-area > app-directory-filters > div.directory-filters-wrapper > di
 	height: 48px;
 }
 
-header.filters-area > app-directory-filters > div.directory-filters-wrapper > div.directory-filters-searchbar > form > mat-form-field > div.mat-form-field-wrapper > div.mat-form-field-flex > div.mat-form-field-infix > span.mat-form-field-label-wrapper {
+header.filters-area > app-directory-filters > div.directory-filters-wrapper > div.directory-filters-searchbar > form > mat-form-field > div.mat-form-field-wrapper > div.mat-form-field-flex > div.mat-form-field-infix > input.mat-form-field[appearance~=alternate-fill]:not([appearance~=filled-default]).mat-form-field-should-float:not(.mat-focused) .mat-datepicker-toggle-default-icon, mat-form-field[appearance~=alternate-fill]:not([appearance~=filled-default]).mat-form-field-should-float:not(.mat-focused) .mat-icon, mat-form-field[appearance~=alternate-fill]:not([appearance~=filled-default]).mat-form-field-should-float:not(.mat-focused) .mat-input-element, mat-form-field[appearance~=alternate-fill]:not([appearance~=filled-default]).mat-form-field-should-float:not(.mat-focused) .mat-select-value-text {
 	color: rgb(72 72 72 / 87%);
 }
 
@@ -187,7 +187,7 @@ div.directory-filters-searchbar > form > mat-form-field > div.mat-form-field-wra
 	background: #ffffff00; 
 	color: rgb(72 72 72 / 87%);
 }
-div.directory-filters-searchbar > form > mat-form-field > div.mat-form-field-wrapper > div.mat-form-field-flex > div.mat-form-field-infix > input {
+header.filters-area > app-directory-filters > div.directory-filters-wrapper > div.directory-filters-searchbar > form > mat-form-field > div.mat-form-field-wrapper > div.mat-form-field-flex > div.mat-form-field-infix > input {
    	width: 700px;
 	max-width: 70vw;
 	background: #ffffff00; 
