@@ -14,7 +14,10 @@ header.filters-area > app-directory-filters > div.directory-filters-wrapper > di
 header.filters-area > app-directory-filters > div.directory-filters-wrapper > app-directory-all-filters {
 	display:none;
 }
-
+/* disparition du bouton "list close button" */
+directory-list-close-button {
+	display:none;
+}
 /* LEGENDE */
 
 div.cdk-overlay-container > div.cdk-overlay-connected-position-bounding-box > div.cdk-overlay-pane > div.directory-legend-dropdown-wrapper {
