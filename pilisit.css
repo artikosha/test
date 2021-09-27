@@ -44,7 +44,7 @@ app-directory-summary.ng-star-inserted > div.util-el-background {
 @media (min-width: 768px) {
 	
 app-directory-legend-dropdown  > div.directory-filters-legend  > button.directory-dropdown-button {
-	max-width: 90px;
+	max-width: 40px;
 }
 
 
