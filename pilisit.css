@@ -30,7 +30,9 @@ div.cdk-overlay-container > div.cdk-overlay-connected-position-bounding-box > di
 app-directory-list {
  	background : #f8f8f9;  
 }
-
+app-directory-list > div > nav > div.util-el-background {
+ 	background : #f8f8f9;  
+}
 .directory-list-core {
 	background : #f8f8f9; 
 }
