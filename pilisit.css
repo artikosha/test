@@ -15,7 +15,7 @@ header.filters-area > app-directory-filters > div.directory-filters-wrapper > ap
 	display:none;
 }
 /* disparition du bouton "list close button" */
-directory-list-close-button {
+.directory-list-close-button {
 	display:none;
 }
 /* LEGENDE */
